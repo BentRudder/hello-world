@@ -29,11 +29,11 @@ int main();
   cout << "This is a math problem: " << endl;
   
   
-  cout << "Enter a number!" << endl;
+  cout << "Enter a number" << endl;
   
   cin >> a;
   
-  cout << "Enter another number!" << endl;
+  cout << "Enter another number" << endl;
   
   cin >> b;
   
