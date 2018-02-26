@@ -10,28 +10,41 @@ I tend to learn best by example, or to put it another way, if I delve into somet
 i.e.
 
 #include <iostream>
+  
 using namespace std;
 
 int main();
 
 {
+
   int a;
+  
   int b;
+  
   int sum;
   
+  
   cout << "Hello World!" << endl;
+  
   cout << "This is a math problem: " << endl;
   
+  
   cout << "Enter a number!" << endl;
+  
   cin >> a;
   
   cout << "Enter another number!" << endl;
+  
   cin >> b;
   
   sum = a + b;
+  
   cout << "The sum of those numbers is: "<< sum << endl;
   
+  
+  
   Return 0;
+  
 }
 
 That's the first C++ code I've ever written; I'm willing to admit I had to bounce back and forth in a tutorial to do it.
